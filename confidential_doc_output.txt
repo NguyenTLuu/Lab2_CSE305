@@ -1,0 +1,2 @@
+yh9E0siE7L6mDczbLkT0pProFf8Y37F3iqdbya6RBNObU86CNS4WYruzsmCKid6DwSeCfNL5KsR9p9gtFYI/HwxFVMJAJZQvS3WsD5g0CQA=
+Contract{contractID='123', rentAmount=123, tenantID='123', propertyID='123'}
